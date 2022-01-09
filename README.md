@@ -1,8 +1,8 @@
 ### Hello Worldsss 🚀 I'm [Brian!](#)! <!-- # = linkPortfolio-->
 <!--https://shields.io/-->
-![Twitter URL](https://img.shields.io/twitter/url?color=%23f02255&label=b_herbasmontero&logo=twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fb_herbasmontero)
-![Twitter URL](https://img.shields.io/twitter/url?color=%23e034a1&label=Instagram&logo=instagram&logoColor=%23e034a1&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Fb_herbasmontero%2F)
-![Twitter URL](https://img.shields.io/twitter/url?color=%233484e0&label=LinkedIn&logo=LinkedIn&logoColor=%233484e0&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbrian-herbas-montero)
+<a href="https://www.twitter.com/b_herbasmontero">![Twitter URL](https://img.shields.io/twitter/url?color=%23f02255&label=b_herbasmontero&logo=twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fb_herbasmontero)</a>
+<a href="https://www.instagram.com/b_herbasmontero">![Twitter URL](https://img.shields.io/twitter/url?color=%23e034a1&label=Instagram&logo=instagram&logoColor=%23e034a1&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Fb_herbasmontero%2F)</a>
+<a href="https://www.linkedin.com/in/brian-herbas-montero">![Twitter URL](https://img.shields.io/twitter/url?color=%233484e0&label=LinkedIn&logo=LinkedIn&logoColor=%233484e0&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbrian-herbas-montero)</a>
 
 💻 Frontend developer
 
