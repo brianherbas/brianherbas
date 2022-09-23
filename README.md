@@ -9,8 +9,8 @@
 
 ## What i'm up to
 
->- 🚀 Currently working side by side with MERN stack
->- ⚡ Sometimes I try to play piano and ⚽
+- 🚀 Currently working side by side with MERN stack
+- ⚡ Sometimes I try to play piano and ⚽
 
 
 ## Stack
