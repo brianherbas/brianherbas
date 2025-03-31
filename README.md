@@ -1,4 +1,5 @@
-## [Hey there!](#) 🌴🌴 <a href="https://www.linkedin.com/in/brian-herbas-montero">[![SoundCloud](https://img.shields.io/badge/SoundCloud----green?labelColor=7fc9e3&style=flat&logo=soundcloud&link=https://on.soundcloud.com/dT7dLRHLqqUQincf8)](https://on.soundcloud.com/dT7dLRHLqqUQincf8)</a>
+## [Hey there!](#) 🌴🌴 <a href="https://on.soundcloud.com/dT7dLRHLqqUQincf8">[![SoundCloud](https://img.shields.io/badge/SoundCloud----green?labelColor=7fc9e3&style=flat&logo=soundcloud&link=https://on.soundcloud.com/dT7dLRHLqqUQincf8)](https://on.soundcloud.com/dT7dLRHLqqUQincf8)</a> <a href="https://open.spotify.com/user/21czooms2yl5rs2ogs6dvtqcy">[![Spotify](https://img.shields.io/badge/Spotify----1ED760?labelColor=black&style=flat&logo=spotify&link=https://open.spotify.com/user/21czooms2yl5rs2ogs6dvtqcy)](https://open.spotify.com/user/21czooms2yl5rs2ogs6dvtqcy)</a>
+
 <!-- # = linkPortfolio-->
 <!--https://shields.io/-->
 <a href="https://www.twitter.com/brianherbasm">![Twitter URL](https://img.shields.io/twitter/url?color=%23f02255&label=brianherbasm&logo=twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fbrianherbasm)</a>
